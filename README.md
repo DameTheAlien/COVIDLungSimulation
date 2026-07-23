@@ -1,5 +1,9 @@
 # COVID Simulation #
 
+📄 **Project Report**
+
+[Modeling the Adaptive Immune Response to SARS-CoV-2 by Modifying SIM-CoV Report](./Project2_MTDF.pdf)
+
 This is a model for simulating the response of the immune system to infections in the lungs.
 
 ## Installing and building
